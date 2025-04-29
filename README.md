@@ -6,7 +6,7 @@
 
 
 # IoT ESP32 Smart Building Project
-A project for CPE 4750 at Kennesaw State University utilizing an ESP32, C++, and a CCS811 Gas Sensor. Integrated with Amazon Web Services, the sensor data is sent to AWS using MQTT in a program on the ESP32 and is then processed.
+A project for CPE 4750 at Kennesaw State University utilizing an ESP32, C++, and a CCS811 Gas Sensor. Integrated with Amazon Web Services, the sensor data is sent to AWS using MQTT in a program on the ESP32 and is then processed. A full guide on how to complete this project is in the PDF within the files.
 
 
 Created by Ethan Karnes & Margarita Marquez
