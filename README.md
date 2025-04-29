@@ -1,3 +1,7 @@
+# IoT ESP32 Smart Building Project
+A project for CPE 4750 at Kennesaw State University. A simple indoor air quality monitoring package that sends eCO2 and TVOC levels to Amazon Web Services to then send alerts, actuate fans, and present the sensor data in a dashboard. It utilizes an ESP32, the Arduino IDE, a CCS811 Gas Sensor, C++, HTML, Python, and AWS.
+
+
 ![](https://github.com/user-attachments/assets/da3b2280-4a28-438d-982e-78df7bc8927d)
 
 <p align="center">
@@ -10,10 +14,6 @@
 
 
 ---
-
-
-# IoT ESP32 Smart Building Project
-A project for CPE 4750 at Kennesaw State University utilizing an ESP32, C++, and a CCS811 Gas Sensor. Integrated with Amazon Web Services, the sensor data is sent to AWS using MQTT in a program on the ESP32 and is then processed. 
 
 
 A full guide on how to complete this project is in the PDF within the files.
