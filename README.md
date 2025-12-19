@@ -16,7 +16,6 @@ A project for Introduction to IoTs. A simple indoor air quality monitoring packa
 ---
 
 
-A full guide on how to complete this project is in the PDF within the files.
-
+A full guide on how to complete this project is in the PDF within the files. <a href="https://github.com/EKarnes825/IoTProj/blob/main/Lab%20Report-%20ESP.pdf">Walkthrough and Background here</a>
 
 ## Created by Ethan Karnes & Margarita Marquez
